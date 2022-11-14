@@ -1,0 +1,7 @@
+Jim 5
+John 6
+Will 2
+Kate 1
+Joy 5
+Allen 2
+Jill 5
